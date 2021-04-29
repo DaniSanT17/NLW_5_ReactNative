@@ -46,7 +46,6 @@ export function PlantSelect(){
         );
         
         setFilteredPlants(filtered);
-        console.log(environment);
     }
 
     async function fetchPlants() {
